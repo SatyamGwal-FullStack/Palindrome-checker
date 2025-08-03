@@ -8,7 +8,7 @@ It checks whether a given string is a palindrome — a word or phrase that reads
 - Simple and responsive user interface.
 
 ## Live Demo
-[Click here to view the live project](https://github.com/SatyamGwal-FullStack/Palindrome-checker/blob/main/palindrome_new.html)
+[Click here to view the live project](https://satyamgwal-fullstack.github.io/Palindrome-checker/)
 
 ## How to Use
 1. Clone this repository.
